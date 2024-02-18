@@ -1,0 +1,17 @@
+{
+  "id": "0003",
+  "name": "AAA",
+  "age": 30,
+  "Influencers": [
+    {
+      "name": "Jaxon",
+      "age": 42,
+      "Works At": "Tech News"
+    },
+    {
+      "name": "Miller",
+      "age": 35,
+      "Works At": "IT Day"
+    }
+  ]
+}
